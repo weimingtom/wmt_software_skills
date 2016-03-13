@@ -1,5 +1,5 @@
 # wmt_software_skills
-Study target got from books and websites  
+Study targets got from books and websites  
 I just want some powerful skills (必殺技) which I can't understand ...  
 
 * Unity
@@ -19,4 +19,7 @@ I just want some powerful skills (必殺技) which I can't understand ...
 * PHP
 * Ruby
 * Python
-* 
+* Oracle
+* Memcache
+* Gradle
+* Nginx
