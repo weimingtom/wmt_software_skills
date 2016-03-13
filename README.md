@@ -10,4 +10,13 @@ I just want some powerful skills (必殺技) which I can't understand ...
 * Nodejs
 * Expressjs
 * Golang
-
+* Delphi
+* PowerBuilder
+* CSharp
+* ASP.NET
+* Swift
+* Erlang
+* PHP
+* Ruby
+* Python
+* 
