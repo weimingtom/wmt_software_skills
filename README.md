@@ -24,3 +24,6 @@ I just want some powerful skills (必殺技) which I can't understand ...
 * Gradle
 * Nginx
 * CSS3
+* ng2
+* react+redux
+
